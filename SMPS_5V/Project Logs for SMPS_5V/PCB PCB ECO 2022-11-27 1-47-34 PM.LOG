@@ -1,0 +1,265 @@
+Added Component: Designator=5V-100mA(Phoenix_2PIN_RA_P5.08mm)
+Added Component: Designator=5V-500mA(Phoenix_2PIN_RA_P5.08mm)
+Added Component: Designator=220VAC(Phoenix_2PIN_RA_P5.08mm)
+Added Component: Designator=BR1(SOP250P700X270-4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/14bb/0900766b814bbf67.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "HY Electronic Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MB6S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(Cap electrolitic radial 10x16-5)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP805)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP1206)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Cap electrolitic radial 8x12-3.5)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Cap electrolitic radial 5x11-2)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(ONSC-SURMETIC40-2-017AA-01)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/P6KE6.8A-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/017AA.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Unidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IR Max (uA)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 3.49 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SURMETIC40-2-017AA-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. O, 09/2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "P6KE200ARLG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPK Max (W)"; Value = "600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "V(BR) Typ (V)"; Value = "200"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIOD-SMA-2_A_V)
+Add component (AddParameter): Name = "Average Rectified Current-Max"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.diodes.com/_files/datasheets/ds16008.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 11-2, 12/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.diodes.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.3 x 2.605 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SMA-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Current-Max"; Value = "5µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Recovery Time-Max"; Value = "75ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage-Max [Vrrm]"; Value = "1000V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(FP-SOD123-IPC_A)
+Add component (AddParameter): Name = "Average Rectified Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "110pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SOD-123-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "450mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "450mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Non-Repetitive Surge Current"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Current"; Value = "50uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000353oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.7mm"; VariantName = "[No Variations]"
+Added Component: Designator=D4(FP-SOD123-IPC_A)
+Add component (AddParameter): Name = "Average Rectified Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "110pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SOD-123-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "450mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "450mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Non-Repetitive Surge Current"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reverse Current"; Value = "50uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000353oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.7mm"; VariantName = "[No Variations]"
+Added Component: Designator=DZ1(SOD80, LL-34)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIODE GEN ZENER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO 35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2017-1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART.NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2017-1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=F1(FUSE_5X20MM_4PIN)
+Added Component: Designator=R1(RES0603_(1608X06L))
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0603_(1608X06L))
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0603_(1608X06L))
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD PAKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=T1(EE16)
+Added Component: Designator=U1(DIP762W56P254L958H406Q8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-551610.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Power Integrations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TNY274PN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "869-TNY274PN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Power-Integrations/TNY274PN?qs=%252Bk6%2F5FB6qrkuAGauUJhMww%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOP4)
+Added Component: Designator=VR1(10D XXX)
+Add component (AddParameter): Name = "Data"; Value = "2017-1-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "digikey.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "china-canada-philipina"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Models"; Value = "MOV-VDR-COV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PUBLISHER"; Value = "ABBAS BASEREH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "xxDxxx"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=310V Pin=BR1-1
+Added Pin To Net: NetName=310V Pin=C1-1
+Added Pin To Net: NetName=310V Pin=C3-2
+Added Pin To Net: NetName=310V Pin=D1-2
+Added Pin To Net: NetName=310V Pin=R1-2
+Added Pin To Net: NetName=310V Pin=T1-5
+Added Net: Name=310V
+Added Pin To Net: NetName=GND-310V Pin=BR1-2
+Added Pin To Net: NetName=GND-310V Pin=C1-2
+Added Pin To Net: NetName=GND-310V Pin=C2-1
+Added Pin To Net: NetName=GND-310V Pin=U1-5
+Added Pin To Net: NetName=GND-310V Pin=U1-6
+Added Pin To Net: NetName=GND-310V Pin=U1-7
+Added Pin To Net: NetName=GND-310V Pin=U1-8
+Added Pin To Net: NetName=GND-310V Pin=U2-3
+Added Net: Name=GND-310V
+Added Pin To Net: NetName=GND-Iso Pin=5V-100mA-2
+Added Pin To Net: NetName=GND-Iso Pin=C5-2
+Added Pin To Net: NetName=GND-Iso Pin=T1-3
+Added Net: Name=GND-Iso
+Added Pin To Net: NetName=GND Pin=5V-500mA-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=DZ1-1
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net220VAC_1 Pin=220VAC-1
+Added Pin To Net: NetName=Net220VAC_1 Pin=BR1-3
+Added Pin To Net: NetName=Net220VAC_1 Pin=VR1-1
+Added Net: Name=Net220VAC_1
+Added Pin To Net: NetName=Net220VAC_2 Pin=220VAC-2
+Added Pin To Net: NetName=Net220VAC_2 Pin=F1-1
+Added Pin To Net: NetName=Net220VAC_2 Pin=F1-1
+Added Net: Name=Net220VAC_2
+Added Pin To Net: NetName=NetBR1_4 Pin=BR1-4
+Added Pin To Net: NetName=NetBR1_4 Pin=F1-2
+Added Pin To Net: NetName=NetBR1_4 Pin=F1-2
+Added Pin To Net: NetName=NetBR1_4 Pin=VR1-2
+Added Net: Name=NetBR1_4
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=T1-4
+Added Pin To Net: NetName=NetD2_1 Pin=U1-4
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=T1-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=T1-6
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetDZ1_2 Pin=DZ1-2
+Added Pin To Net: NetName=NetDZ1_2 Pin=R3-1
+Added Pin To Net: NetName=NetDZ1_2 Pin=U2-2
+Added Net: Name=NetDZ1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-4
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=VCC-Iso Pin=5V-100mA-1
+Added Pin To Net: NetName=VCC-Iso Pin=C5-1
+Added Pin To Net: NetName=VCC-Iso Pin=D3-1
+Added Net: Name=VCC-Iso
+Added Pin To Net: NetName=VCC Pin=5V-500mA-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=D4-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Net: Name=VCC
+Added Class: Name=Sheet
+Added Room: Name=Sheet

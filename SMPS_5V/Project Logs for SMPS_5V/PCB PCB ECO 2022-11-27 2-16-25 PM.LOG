@@ -1,0 +1,20 @@
+Added Component: Designator=D3(430X270D)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(430X270D)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC-Iso Pin=D3-2
+Added Pin To Net: NetName=VCC Pin=D4-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=T1-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=T1-6
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=Sheet Member=Component D3 1N5819
+Added Member To Class: ClassName=Sheet Member=Component D4 1N5819
